@@ -6,5 +6,5 @@
 * Java 7;
 * Groovy;
 * Core-DX-DDS middleware;
-* XStreamm lib;
+* XStream lib;
 * emf.ecore.EObject lib.
