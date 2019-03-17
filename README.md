@@ -1,10 +1,10 @@
 # Smart Spaces Virtual Machine - Controller (2SVM-Controller)
 
-A 2SVM-Controller é a máquina virtual de execução de modelos para espaços inteligentes. Ela é parte da arquitetura distribuída da 2SVM, e foi implementada como produto da tese de doutorado de Leandro Alexandre Freitas.
+2SVM-Controller is the virtual machine for running models for smart spaces. It is part of the distributed architecture of the 2SVM, and it was implemented as a product of the doctoral thesis of Leandro Alexandre Freitas.
 
-## Requisitos:
+## Requeriments:
 * Java 7;
-* Plataforma de middleware de comunicação Core-DX-DDS;
-* Biblioteca XStream;
 * Groovy;
-* Biblioteca emf.ecore.EObject.
+* Core-DX-DDS middleware;
+* XStreamm lib;
+* emf.ecore.EObject lib.
